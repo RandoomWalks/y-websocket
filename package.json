@@ -31,6 +31,8 @@
     "./package.json": "./package.json",
     "./bin/utils": "./bin/utils.cjs",
     "./bin/callback": "./bin/callback.cjs",
+    "./bin/utils.js": "./bin/utils.cjs",
+    "./bin/utils.cjs": "./bin/utils.cjs",
     ".": {
       "module": "./src/y-websocket.js",
       "import": "./src/y-websocket.js",
